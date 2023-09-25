@@ -117,7 +117,7 @@ greet("Alice")
 
 ## Bilder
 
-![Vault Boy](vaultboy.png)
+![Vault Boy](vaultBoy.png)
 
 ## Blockzitate
 
